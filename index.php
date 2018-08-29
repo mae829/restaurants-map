@@ -130,7 +130,7 @@
 
 		</div>
 
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfcTMgloP4r_OhL6jwm_vn0elegqaKk9Q"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"></script>
 		<!-- <script src="js/vendor/tabletop.min.js"></script> -->
 		<script src="js/vendor/instafeed.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

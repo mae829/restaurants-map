@@ -1,6 +1,6 @@
 (function ($) {
 
-    var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1ubZ_8P7AlgdQQTeX9LXcl-tDelwWX4Ucag_078FFhb4/pubhtml';
+    var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/XXXXXXXXXXXXXXXXXXXXXXXXXX/pubhtml';
     var map;
 
     // our main global object that holds all our info
